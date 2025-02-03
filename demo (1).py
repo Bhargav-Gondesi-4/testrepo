@@ -19,10 +19,10 @@ def mul(a,b):
 def div(a,b):
     return a/b
 
-a = int(input("Enter a number: "))
-b = int(input("Enter a number: "))
+x = int(input("Enter a number: "))
+y = int(input("Enter a number: "))
 
-print(sum(a,b))
-print(sub(a,b))
-print(mul(a,b))
-print(div(a,b))
+print(sum(x,y))
+print(sub(x,y))
+print(mul(x,y))
+print(div(x,y))
